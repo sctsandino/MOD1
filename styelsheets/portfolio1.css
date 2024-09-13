@@ -95,6 +95,7 @@ body {
 }
 
 main {
+    height: auto;
     padding: 2rem;
     background-color:#e9f1fb;
     margin-top: 0;
